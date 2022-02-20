@@ -21,3 +21,15 @@
 **Total coding time today**: 4 hours
 
 **Thoughts**: I'm thinking of moving several variables related to table instances and field names into a separate file and importing it where needed. That would probably be a lot more streamlined than repeating the same lines in several files, especially on the off chance that something might get renamed down the road. Much easier to change one file instead of several.
+
+---
+
+### Day 3: February 19, 2022
+
+**Today's progress**: Worked on my custom app. Restructured the code (moved components to their own files, created some utility files, tweaked the data format). Did a quick Git refresher (used it at my last animation job 10 yrs ago and nothing since then). Built a local Git repo, pushed to GitHub, made a GitHub project.
+
+**Total coding time**: 1 hr 15 minutes
+
+**Thoughts**: I'm SO glad that VSCode has built-in Git support. As much as I like coding, I've never been a huge fan of command line tools, which might explain why I never bothered to make repos of my own projects. 🤣 I've been storing some projects on GitHub as gists, but today is the first time in ages that I made an actual repo and committed some code to it, and it's only because VSCode made it so incredibly easy.
+
+It's fun having little epiphanies now and then about how things can be optimized, and a few of those happened during my short coding stretch today. I wasn't able to act on all of them, but having a project in GitHub for tracking all of the things that I want to do with a given coding endeavor helps immensely. I was originally tracking things in Notion, but GitHub just makes a lot more sense (even more sense than tracking everything in Airtable, which is slightly ironic considering that it's an Airtable app).
