@@ -33,3 +33,14 @@
 **Thoughts**: I'm SO glad that VSCode has built-in Git support. As much as I like coding, I've never been a huge fan of command line tools, which might explain why I never bothered to make repos of my own projects. 🤣 I've been storing some projects on GitHub as gists, but today is the first time in ages that I made an actual repo and committed some code to it, and it's only because VSCode made it so incredibly easy.
 
 It's fun having little epiphanies now and then about how things can be optimized, and a few of those happened during my short coding stretch today. I wasn't able to act on all of them, but having a project in GitHub for tracking all of the things that I want to do with a given coding endeavor helps immensely. I was originally tracking things in Notion, but GitHub just makes a lot more sense (even more sense than tracking everything in Airtable, which is slightly ironic considering that it's an Airtable app).
+
+---
+
+### Day 4: February 21, 2022
+
+**Today's progress**: A little work on my client's Airtable app, but not as much as I'd hoped. A video editing project got added to the mix so I'm hopping between HitFilm Pro and VSCode for a little while.
+
+**Total coding time**: 1.5 hrs
+
+**Thoughts**: nothing of note today.
+
