@@ -44,3 +44,13 @@ It's fun having little epiphanies now and then about how things can be optimized
 
 **Thoughts**: nothing of note today.
 
+---
+
+### Day 5: February 22, 2022
+
+**Today's progress**: More work on my client's Airtable app. Hit an odd snag while adding a search feature. It worked up to a point, but then the search field stopped accepting input. No idea why.
+
+**Total coding time**: 2.5 hrs
+
+**Thoughts**: The search feature failing was very frustrating. I even reverted back to older code that was working before the failure, but it didn't change. I wonder if the browser is just being a pill, and things will clear up after a restart. I'll keep my fingers crossed for Thursday when I next work on it.
+
