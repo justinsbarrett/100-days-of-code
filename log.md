@@ -64,3 +64,12 @@ It's fun having little epiphanies now and then about how things can be optimized
 
 **Thoughts**: Nothing today.
 
+---
+
+### Day 7: February 25, 2022
+
+**Today's progress**: My client asked me to pause work on his app to address more pressing issues, so today it was just a little work on my own app. Added some new stuff, fixed a bug, streamlined some pieces. Feeling good with the progress.
+
+**Total coding time**: 1 hr
+
+**Thoughts**: Nothing today.
