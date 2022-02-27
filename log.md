@@ -73,3 +73,15 @@ It's fun having little epiphanies now and then about how things can be optimized
 **Total coding time**: 1 hr
 
 **Thoughts**: Nothing today.
+
+---
+
+### Day 8: February 26, 2022
+
+**Today's progress**: Decided to experiment with React Native today. First test: pull data from Airtable via the REST API and display it in a simple app. Hit some odd snags, but I got it working.
+
+**Total coding time**: 1.75 hrs
+
+**Thoughts**: The interest in React Native came from a client who might be turning over a project from another developer. I've got an idea for a personal app that I want to use as a test to become more familiar with React Native. I might just use the repo that I made for today's test and roll that app concept into it, though I'd prefer to rename it (I used the recommended "Awesome Project" title from the walkthrough).
+
+
