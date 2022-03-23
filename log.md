@@ -84,4 +84,10 @@ It's fun having little epiphanies now and then about how things can be optimized
 
 **Thoughts**: The interest in React Native came from a client who might be turning over a project from another developer. I've got an idea for a personal app that I want to use as a test to become more familiar with React Native. I might just use the repo that I made for today's test and roll that app concept into it, though I'd prefer to rename it (I used the recommended "Awesome Project" title from the walkthrough).
 
+---
 
+### On Hold as of late February, 2022
+
+03/22/2022 - It's been a while since I updated this thing, but I figured it's worth documenting why I'm no longer documenting.
+
+Shortly after my last update I had a series of conversations with my longest-running Airtable consulting client that led to him hiring me full-time. Since then my entire schedule has changed. My client-turned-employer is on the east coast (I'm on the west), so I've been starting my days earlier to be a little more in sync with them. Everything is going really well, but once my workday wraps it's difficult to find the energy for personal projects (a problem that I've faced pretty much my whole life). I've been coding almost every day for work projects and a few remaining client jobs, but just not logging it here (or anywhere else) because the logging process now feels like a burden. It's tough to say if/when I'll continue with the formal tracking, but I'm definitely still coding.
